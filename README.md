@@ -4,7 +4,7 @@
 I am a Mathematics graduate with a strong interest in Data Analytics and Business Intelligence. I specialize in transforming raw data into actionable business insights through structured analysis and interactive dashboards. This portfolio project demonstrates my ability to perform end-to-end data analysis aligned with real business challenges.
 
 ## Project Overview
-Employee attrition is a critical business issue that impacts organizational stability, productivity, and recruiment costs.
+Employee attrition is a critical business issue that impacts organizational stability, productivity, and recruitment costs.
 This project analyzes workforce data to identify key drivers of employee turnover and builds an interactive dashboard to support HR decision-making.
 The goal of this analysis is to transform raw employee data into actionable insights that help reduce attrition risk.
 
@@ -22,7 +22,7 @@ This project is part of my professional Data Analyst portfolio.
 - Data storytelling & insight generation
 
 ## Business Problem
-Jaya Jaya Maju, a multinational company with over 1,000 employees, is experiencing an attrition rate above 10%.
+Jaya Jaya Maju, a multinational company with over 1,000 employees, is experiencing an overall attrition rate of 17%, exceeding the acceptable organizational benchmark 10%.
 
 High employee turnover leads to:
 - Increased recruitment costs
@@ -89,13 +89,13 @@ Key statistically significant factors influencing attrition:
 - Job Satisfaction
 - Environment Satisfaction
 
-All significant variables demonstrated p-values < 0.05, indicating meaningful differences between employees who left and those who stayed.
+Statistical validation confirms that identified risk segments are not random patterns but statistically meaningful differences in employee behavior.
 This statistical validation supports the credibility of segmentation and dashboard insights.
 
 ## Analytical Modeling & Dashboard Development
 To enhance interpretability and support segmentation analysis, additional calculated fields were developed directly in Tableau:
 - Age group segmentation (e.g., <25, 25-35, 35-45, >45)
-- Tanure categorization (0-2 years, 3-5 years, etc.)
+- Tenure categorization (0-2 years, 3-5 years, etc.)
 - Satisfaction heatmap calculations
 - Attrition gap
 - Attrition delta
@@ -115,7 +115,7 @@ These transformations were designed specifically to support executive-level moni
 - Low environment satisfaction strongly correlates with attrition risk.
 - Single employees show higher attrition rates compared to married employees.
   
-## Business Recomendations
+## Business Recommendations
 Based on the analysis, the following strategic actions are recommended:
 - Implement early-career retention programs.
 - Review workload distribution in Sales department.
@@ -156,10 +156,7 @@ In addition, a secondary dashboard was developed in Metabase to demonstrate BI t
 - Metabase (secondary dashboard)
 
 ## Conclusion
-This project demonstrates the ability to:
-- Translate business problems into analytical frameworks
-- Perform structured data preparation
-- Develop KPIs aligned with business objectives
-- Deliver interactive dashboard for executive-level decision making
+This project demonstrates the ability to bridge statistical analysis with executive decision-making through data storytelling and KPI-driven dashboard design. 
+By identifying high-risk workforce segments and validating key attrition drivers, this analysis provides a structured framework for proactive HR risk management.
 
 
