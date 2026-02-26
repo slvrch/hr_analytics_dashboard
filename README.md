@@ -106,6 +106,7 @@ To enhance interpretability and support segmentation analysis, additional calcul
      - Overtime Percentage
      - Risk Classification
      - Average Monthly Income
+
 These transformations were designed specifically to support executive-level monitoring and risk segmentation. 
 
 ## Key Insights
