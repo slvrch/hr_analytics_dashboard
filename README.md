@@ -44,19 +44,14 @@ The HR department requires data-driven insights to:
     - Tenure metrics (Years at Company, Years in Current Role)
 
 ## Data Preparation
-Data preparation was performed using Python.
+Data cleaning and preparation were conducted using Python to ensure data integrity and analytical consistency.
 
 Steps included:
-- Handling missing values
-- Feature grouping (Age Group, Tenure Categories)
-- Creation of calculated KPIs:
-     - Total Employee
-     - Attrition Rate
-     - Total Attrition Count
-     - Overtime Percentage
-     - Risk Classification
-     - Average Monthly Income
-
+- Handling missing values (removal of records with missing Attrition values).
+- Transforming encoded categorical variables into meaningful labels.
+- Conducting exploratory data analysis (EDA) to understand distribution patterns.
+- Performing statistical validation.
+  
 Tools used:
 - Pandas
 - Numpy
@@ -95,8 +90,23 @@ Key statistically significant factors influencing attrition:
 - Environment Satisfaction
 
 All significant variables demonstrated p-values < 0.05, indicating meaningful differences between employees who left and those who stayed.
-
 This statistical validation supports the credibility of segmentation and dashboard insights.
+
+## Analytical Modeling & Dashboard Development
+To enhance interpretability and support segmentation analysis, additional calculated fields were developed directly in Tableau:
+- Age group segmentation (e.g., <25, 25-35, 35-45, >45)
+- Tanure categorization (0-2 years, 3-5 years, etc.)
+- Satisfaction heatmap calculations
+- Attrition gap
+- Attrition delta
+- Creation of calculated KPIs:
+     - Total Employee
+     - Attrition Rate
+     - Total Attrition Count
+     - Overtime Percentage
+     - Risk Classification
+     - Average Monthly Income
+These transformations were designed specifically to support executive-level monitoring and risk segmentation. 
 
 ## Key Insights
 - Sales Representatives exhibit the highest attrition rate (43%).
@@ -123,17 +133,16 @@ The final dashboard was developed using Tableau and includes:
 - Interactive filtering and drill-down functionality
 
 Interactive version:
-https://public.tableau.com/app/profile/silvia.rachmawati/viz/ExecutiveHROverviewDashboard/RiskSegmentsandKeyDrivers?publish=yes
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/silvia.rachmawati/viz/ExecutiveHROverviewDashboard/RiskSegmentsandKeyDrivers?publish=yes)
 
 ### Dashboard Preview
 
-<img width="1652" height="806" alt="tableau" src="https://github.com/user-attachments/assets/843fc954-3435-4001-9d8a-f2b48232766b" />
+![Dashboard Preview](<img width="1652" height="806" alt="tableau" src="https://github.com/user-attachments/assets/843fc954-3435-4001-9d8a-f2b48232766b" />)
 
 
 In addition, a secondary dashboard was developed in Metabase to demonstrate BI tool adaptability.
 
-<img width="418" height="848" alt="Metabase-dashboard" src="https://github.com/user-attachments/assets/b7011446-e999-4e95-b611-46d8ca889cba" />
-
+![Metabase Dashboard](<img width="418" height="848" alt="Metabase-dashboard" src="https://github.com/user-attachments/assets/b7011446-e999-4e95-b611-46d8ca889cba" />)
 
 ## Tools & Technologies
 
