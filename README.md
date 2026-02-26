@@ -148,7 +148,7 @@ In addition, a secondary dashboard was developed in Metabase to demonstrate BI t
 ## Presentation (Executive Version)
 An executive-level presentation was developed using the CRAFT storytelling framework to communicate insights and strategic recommendations effectively.
 
-View Executive Presentation (https://docs.google.com/presentation/d/1CGD7QjDDuvopQUYZ1ze_IDzneWcyERrBwkREo5Xr-p8/edit?usp=sharing)
+[View Executive Presentation](https://docs.google.com/presentation/d/1CGD7QjDDuvopQUYZ1ze_IDzneWcyERrBwkREo5Xr-p8/edit?usp=sharing)
 
 ## Tools & Technologies
 
