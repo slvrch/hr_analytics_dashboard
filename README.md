@@ -10,9 +10,11 @@ The goal of this analysis is to transform raw employee data into actionable insi
 
 ## Portfolio Objective
 This project is part of my professional Data Analyst portfolio.
+
 **Target Role:**
 - Data Analyst
 - Business Intelligence Analyst
+- 
 **Value Demonstrated:**
 - End-to-end data analysis
 - KPI development & benchmarking
@@ -109,7 +111,7 @@ Based on the analysis, the following strategic actions are recommended:
 - Improve workplace environment engagement initiatives.
 - Develop targeted retention strategies for high-risk employee segments.
 
-## Dashboard Preview
+## Dashboard Overview
 The final dashboard was developed using Tableau and includes:
 - Executive KPI summary
 - Attrition benchmark comparison
@@ -118,8 +120,16 @@ The final dashboard was developed using Tableau and includes:
 - Satisfaction heatmaps
 - Interactive filtering and drill-down functionality
 
-Dashboard Preview:
-(insert ss)
+Interactive version:
+https://public.tableau.com/app/profile/silvia.rachmawati/viz/ExecutiveHROverviewDashboard/RiskSegmentsandKeyDrivers?publish=yes
+
+### Dashboard Preview
+
+<img width="1652" height="806" alt="tableau" src="https://github.com/user-attachments/assets/843fc954-3435-4001-9d8a-f2b48232766b" />
+
+In addition, a secondary dashboard was developed in Metabase to demonstrate BI tool adaptability.
+<img width="418" height="848" alt="Metabase-dashboard" src="https://github.com/user-attachments/assets/b7011446-e999-4e95-b611-46d8ca889cba" />
+
 
 ## Tools & Technologies
 - Python (Pandas, Numpy, Seaborn/Matplotlib)
