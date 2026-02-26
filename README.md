@@ -145,6 +145,11 @@ In addition, a secondary dashboard was developed in Metabase to demonstrate BI t
 
 <img width="418" height="848" alt="Metabase-dashboard" src="https://github.com/user-attachments/assets/b7011446-e999-4e95-b611-46d8ca889cba" />
 
+## Presentation (Executive Version)
+An executive-level presentation was developed using the CRAFT storytelling framework to communicate insights and strategic recommendations effectively.
+
+View Executive Presentation (https://docs.google.com/presentation/d/1CGD7QjDDuvopQUYZ1ze_IDzneWcyERrBwkREo5Xr-p8/edit?usp=sharing)
+
 ## Tools & Technologies
 
 **Programming & Data Processing**
