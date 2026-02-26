@@ -14,7 +14,7 @@ This project is part of my professional Data Analyst portfolio.
 **Target Role:**
 - Data Analyst
 - Business Intelligence Analyst
-- 
+
 **Value Demonstrated:**
 - End-to-end data analysis
 - KPI development & benchmarking
@@ -50,10 +50,12 @@ Steps included:
 - Handling missing values
 - Feature grouping (Age Group, Tenure Categories)
 - Creation of calculated KPIs:
+     - Total Employee
      - Attrition Rate
      - Total Attrition Count
      - Overtime Percentage
      - Risk Classification
+     - Average Monthly Income
 
 Tools used:
 - Pandas
@@ -132,10 +134,14 @@ In addition, a secondary dashboard was developed in Metabase to demonstrate BI t
 
 
 ## Tools & Technologies
-- Python (Pandas, Numpy, Seaborn/Matplotlib)
+
+**Programming & Data Processing**
+- Python (Pandas, Numpy)
 - Statistical Analysis (SciPy)
-- Tableau
 - SQLite (for data storage)
+  
+**Visualization & BI**
+- Tableau
 - Metabase (secondary dashboard)
 
 ## Conclusion
