@@ -95,7 +95,7 @@ This statistical validation supports the credibility of segmentation and dashboa
 ## Analytical Modeling & Dashboard Development
 To enhance interpretability and support segmentation analysis, additional calculated fields were developed directly in Tableau:
 - Age group segmentation (e.g., <25, 25-35, 35-45, >45)
-- Tenure categorization (0-2 years, 3-5 years, etc.)
+- Tenure categorization (0-2 years, 3-5 years, 6-10 years, 11-15 years, 16-20 years, 21-25 years, 26+ years)
 - Satisfaction heatmap calculations
 - Attrition gap
 - Attrition delta
