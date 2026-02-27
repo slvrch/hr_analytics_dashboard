@@ -138,10 +138,12 @@ Interactive version:
 
 ### Dashboard Preview
 
-<img width="1652" height="806" alt="tableau" src="https://github.com/user-attachments/assets/843fc954-3435-4001-9d8a-f2b48232766b" />
+<img width="1646" height="798" alt="image" src="https://github.com/user-attachments/assets/4bde1b8e-68a9-4b0e-9273-c3d3fb5a3bcd" />
+
 
 
 In addition, a secondary dashboard was developed in Metabase to demonstrate BI tool adaptability.
+
 
 <img width="418" height="848" alt="Metabase-dashboard" src="https://github.com/user-attachments/assets/b7011446-e999-4e95-b611-46d8ca889cba" />
 
