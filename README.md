@@ -138,7 +138,8 @@ Interactive version:
 
 ### Dashboard Preview
 
-<img width="1652" height="803" alt="image" src="https://github.com/user-attachments/assets/a3702a79-23f0-4323-949b-7fe06f626470" />
+<img width="1650" height="801" alt="image" src="https://github.com/user-attachments/assets/999437c2-7430-4bfd-a083-9e7effde4600" />
+
 
 
 
